@@ -1,9 +1,7 @@
 - 👋 Hi, I’m andro
-- 👀 I’m interested in c++ project/game dev
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
-- facebook https://www.facebook.com/androbiert.king/
-- instgram https://www.instagram.com/andro_biert/
+- 👀 I’m interested in c++ project app/web/game dev
+- 🌱 I’m currently learning ... The life 
+- 📫 How to reach me ... 
 
 <!---
 androbiert/androbiert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
